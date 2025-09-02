@@ -44,7 +44,7 @@
       <p>This web application is now running with an <i>updated message</i>.</p>
       <p>If you see this line, that means your latest changes are 
          <b style="color: #ffd700;">automatically deployed</b> into production by CodePipeline! 🚀</p>
-      <p>Let's goooo! 🎉</p>
+      <p>Let's gooooooooo! 🎉</p>
       <footer>
         Powered by <b>AWS CodePipeline</b> & <b>CodeDeploy</b> ⚡
       </footer>
